@@ -8,4 +8,4 @@ INSTALL
 =======
 ::
 
-    pip install git+https://github.com/MagicSolutions/fake-PIL.git
+    pip install https://github.com/MagicSolutions/fake-PIL/archive/master.zip
