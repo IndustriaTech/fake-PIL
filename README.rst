@@ -8,4 +8,4 @@ INSTALL
 =======
 ::
 
-    pip install https://github.com/MagicSolutions/fake-PIL/archive/master.zip
+    pip install https://github.com/IndustriaTech/fake-PIL/archive/master.zip
